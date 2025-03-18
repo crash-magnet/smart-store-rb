@@ -1,0 +1,6 @@
+2025-03-17 19:44:39.913 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-03-17 19:44:39.913 | INFO     | __main__:main:41 - Starting data preparation...
+2025-03-17 19:44:39.913 | INFO     | __main__:read_raw_data:26 - Reading raw data from C:\Projects\smart-store-rb\data\raw\customers_data.csv.
+2025-03-17 19:44:39.934 | INFO     | __main__:read_raw_data:26 - Reading raw data from C:\Projects\smart-store-rb\data\raw\products_data.csv.
+2025-03-17 19:44:39.943 | INFO     | __main__:read_raw_data:26 - Reading raw data from C:\Projects\smart-store-rb\data\raw\sales_data.csv.
+2025-03-17 19:44:39.957 | INFO     | __main__:main:45 - Data preparation complete.
