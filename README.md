@@ -1,7 +1,19 @@
 # smart-store-rb
 
+commands used in data cleaning process:
+test_check_data_consistency_after_cleaning
+test_check_data_consistency_before_cleaning
+test_convert_column_to_new_data_type
+test_filter_column_outliers
+test_format_column_strings_to_lower_and_trim
+test_format_column_strings_to_upper_and_trim
+test_handle_missing_data
+test_inspect_data
+test_parse_dates_to_add_standard_datetime
+test_remove_duplicate_records
+test_rename_columns
+test_reorder_columns
 
-.venv\Scripts\activate-------use to activate .venv
 
 To set the VS Code Interpreter:
 
