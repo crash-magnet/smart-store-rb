@@ -1,4 +1,6 @@
 # smart-store-rb
+created smart_sales.db
+
 
 commands used in data cleaning process:
 test_check_data_consistency_after_cleaning

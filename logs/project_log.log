@@ -191,3 +191,18 @@ dtype: int64
 2025-03-25 15:39:28.499 | INFO     | __main__:main:202 - ==================================
 2025-03-25 15:39:28.499 | INFO     | __main__:main:203 - FINISHED prepare_sales_data.py
 2025-03-25 15:39:28.499 | INFO     | __main__:main:204 - ==================================
+2025-04-03 13:55:07.522 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-03 13:55:07.522 | INFO     | __main__:main:43 - Starting data warehouse creation...
+2025-04-03 13:55:07.527 | INFO     | __main__:create_dw:31 - Data warehouse created successfully.
+2025-04-03 13:55:07.527 | INFO     | __main__:main:45 - Data warehouse creation complete.
+2025-04-03 13:58:58.252 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-03 13:58:58.253 | INFO     | __main__:main:43 - Starting data warehouse creation...
+2025-04-03 13:58:58.253 | INFO     | __main__:create_dw:31 - Data warehouse created successfully.
+2025-04-03 13:58:58.254 | INFO     | __main__:main:45 - Data warehouse creation complete.
+2025-04-03 13:58:58.255 | INFO     | __main__:<module>:81 - Existing database data\dw\smart_sales.db deleted.
+2025-04-03 13:58:58.255 | INFO     | __main__:main:163 - Starting data warehouse creation...
+2025-04-03 13:58:58.267 | INFO     | __main__:create_customer_table:96 - customer table created.
+2025-04-03 13:58:58.271 | INFO     | __main__:create_product_table:111 - product table created.
+2025-04-03 13:58:58.274 | INFO     | __main__:create_sale_table:132 - sale table created.
+2025-04-03 13:58:58.275 | INFO     | __main__:create_dw:151 - Data warehouse created successfully.
+2025-04-03 13:58:58.275 | INFO     | __main__:main:165 - Data warehouse creation complete.
